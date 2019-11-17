@@ -1,4 +1,4 @@
-# docker-jenkins
+# jenkins-on-docker
 [Jenkins](https://jenkins.io/) mediante [Docker](https://www.docker.com/). Se incluye la instalación de Maven y de plugins.
 
 Para construir la imagen, ejecutar el siguiente comando:
